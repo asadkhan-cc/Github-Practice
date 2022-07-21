@@ -1,0 +1,17 @@
+body {
+  background: whitesmoke;
+}
+
+nav{
+    display: flex;
+}
+nav ul li {
+  /* display: flex; */
+  color: aqua;
+  text-align: center;
+  text-transform: uppercase;
+  /* flex-direction: row; */
+  list-style: none;
+  /* margin: auto; */
+}
+
